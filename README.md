@@ -29,9 +29,8 @@ Active Directory & User Administration, Office 365 applications & Administration
     <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
 
   ## Projects
-- Cloud Security Engineering Lab: Designing Azure Honeypot Infrastructure and Detection Pipelines
 
-
+- <a href="https://github.com/The-Efren/Cloud-Security-Engineering-Lab-Designing-Azure-Honeypot-Infrastructure-and-Detection-Pipelines">Cloud Security Engineering Lab: Azure Honeypot, Centralized Logging, and Threat Detection</a>
 
 
 >
