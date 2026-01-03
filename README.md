@@ -29,7 +29,7 @@ Active Directory & User Administration, Office 365 applications & Administration
     <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
 
   ## Projects
-- Vulnerability Management and Threat Hunting Project
+- Cloud Security Engineering Lab: Designing Azure Honeypot Infrastructure and Detection Pipelines
 
 
 
