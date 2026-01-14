@@ -11,8 +11,10 @@ Active Directory & User Administration, Office 365 applications & Administration
 
 ## Certifications
 <div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-  <img src="https://img.shields.io/badge/Azure%20Fundamentals-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white">
+<img width="150" height="150" alt="comptia-security-ce-certification" src="https://github.com/user-attachments/assets/abebdfc0-3ed8-4f21-8767-7c2350593d9d" />
+
+  <img width="150" height="150" alt="image" src="https://github.com/user-attachments/assets/18d1ab4b-db8c-4d2f-86df-de82c0102711" />
+
 </p>
 
   
