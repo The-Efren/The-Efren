@@ -4,10 +4,23 @@
 I’m a U.S. Army veteran and IT professional currently working as a Help Desk Agent, supporting enterprise users in a remote environment.
 ## Objective
 
- I hold a Bachelor’s degree in Computer Science and I am actively pursuing a career in Cloud Security Engineering. I am building on my foundation in IT support and security principles. My background includes supporting mission-critical systems and operating in structured, high-accountability environments.
+ I am an IT professional currently working as a Helpdesk Engineer II with experience supporting enterprise systems, troubleshooting infrastructure issues, and maintaining reliable IT environments. Through my work in IT support, I have developed a strong foundation in Networking, System Administration, and Security. I have recently expanded my focus into cloud infrastructure and automation, specifically with Microsoft Azure. I am currently building hands on experiences with Azure services while preparing for the AZ-104 Azure Administrator certification. My learning focuses on cloud networking, identity management, and deploying scalable infrastructure in the cloud.
+
+Certifications:  
+- CompTIA Security+
+- Microsoft Certified: Azure Fundamentals (AZ-900)
+- Microsoft Azure Administrator Associate (AZ-104) – In Progress
+
+I’m always interested in connecting with professionals working in cloud engineering, infrastructure, and DevOps.
 
 ## Skills
-Active Directory & User Administration, Office 365 applications & Administration, Communication, Azure, Fast learner, Service Now, Remote Desktop, MFA, VPN & Wireless Configuration, Technical Documentation, Hardware & Software Troubleshooting, Windows OS
+**Cloud Platforms:** Microsoft Azure, Azure Virtual Machines, Azure Functions, Azure Static Web Apps.  
+**Infrastructure & Identity:** Active Directory, Entra ID (Azure AD), RBAC, Identity Lifecycle Management, Multi-Factor Authentication (MFA).  
+**DevOps & Automation:** Git, GitHub Actions, CI/CD Pipelines, Infrastructure as Code (IaC) Concepts.  
+**Security & Monitoring:** Microsoft Sentinel (SIEM), Threat Detection, Security Event Analysis, Incident Response, Log Monitoring.  
+**Systems & Networking:** Windows Administration, VPN, DNS, HTTP/HTTPS, Remote Desktop Protocol (RDP).  
+**IT Operations:** ServiceNow, Incident Management, Technical Documentation, Troubleshooting.
+
 
 ## Certifications
 <div>
