@@ -1,10 +1,9 @@
 # Hello, I'm Efren
 <a href="https://www.linkedin.com/in/efren-martinez-it/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I’m a U.S. Army veteran and IT professional currently working as a Help Desk Agent, supporting enterprise users in a remote environment.
-## Objective
+## About me
 
- I am an IT professional currently working as a Helpdesk Engineer II with experience supporting enterprise systems, troubleshooting infrastructure issues, and maintaining reliable IT environments. Through my work in IT support, I have developed a strong foundation in Networking, System Administration, and Security. I have recently expanded my focus into cloud infrastructure and automation, specifically with Microsoft Azure. I am currently building hands on experiences with Azure services while preparing for the AZ-104 Azure Administrator certification. My learning focuses on cloud networking, identity management, and deploying scalable infrastructure in the cloud.
+I’m a U.S. Army veteran an IT professional currently working as a Helpdesk Engineer II with experience supporting enterprise systems, troubleshooting infrastructure issues, and maintaining reliable IT environments. Through my work in IT support, I have developed a strong foundation in Networking, System Administration, and Security. I have recently expanded my focus into cloud infrastructure and automation, specifically with Microsoft Azure. I am currently building hands on experiences with Azure services while preparing for the AZ-104 Azure Administrator certification. My learning focuses on cloud networking, identity management, and deploying scalable infrastructure in the cloud.
 
 Certifications:  
 - CompTIA Security+
