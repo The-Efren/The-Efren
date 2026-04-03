@@ -3,14 +3,14 @@
 
 ## About me
 
-I’m a U.S. Army veteran an IT professional currently working as a Helpdesk Engineer II with experience supporting enterprise systems, troubleshooting infrastructure issues, and maintaining reliable IT environments. Through my work in IT support, I have developed a strong foundation in Networking, System Administration, and Security. I have recently expanded my focus into cloud infrastructure and automation, specifically with Microsoft Azure. I am currently building hands on experiences with Azure services while preparing for the AZ-104 Azure Administrator certification. My learning focuses on cloud networking, identity management, and deploying scalable infrastructure in the cloud.
+I’m a U.S. Army veteran and IT professional with 5+ years of experience in cloud identity, network security, and enterprise infrastructure, transitioning into a Cloud Engineer role. Through my work in IT support and government contracting, I have built a strong foundation in Microsoft Azure, identity and access management, and network administration. I bring hands-on experience with Microsoft Entra ID, Conditional Access, Microsoft Intune, and Microsoft 365 to support secure, scalable environments. Previously held an active Secret clearance (inactive since 2022, expired 2024), with experience working in secure and compliance-driven environments. Currently advancing toward the Microsoft Azure Administrator Associate (AZ-104) certification while continuing to build practical cloud experience.
 
-Certifications:  
-- CompTIA Security+
-- Microsoft Certified: Azure Fundamentals (AZ-900)
-- Microsoft Azure Administrator Associate (AZ-104) – In Progress
+Certifications:
+• CompTIA Security+
+• Microsoft Certified: Azure Fundamentals (AZ-900)
+• Microsoft Azure Administrator Associate (AZ-104) – In Progress
 
-I’m always interested in connecting with professionals working in cloud engineering, infrastructure, and DevOps.
+Actively seeking Cloud Engineer, Azure Administrator, and Cloud Security roles. Open to connecting with recruiters, hiring managers, and cloud professionals.
 
 ## Skills
 **Cloud Platforms:** Microsoft Azure, Azure Virtual Machines, Azure Functions, Azure Static Web Apps.  
