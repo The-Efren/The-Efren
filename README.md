@@ -5,9 +5,9 @@
 
 I’m a U.S. Army veteran and IT professional with 5+ years of experience in cloud identity, network security, and enterprise infrastructure, transitioning into a Cloud Engineer role. Through my work in IT support and government contracting, I have built a strong foundation in Microsoft Azure, identity and access management, and network administration. I bring hands-on experience with Microsoft Entra ID, Conditional Access, Microsoft Intune, and Microsoft 365 to support secure, scalable environments. Previously held an active Secret clearance (inactive since 2022, expired 2024), with experience working in secure and compliance-driven environments. Currently advancing toward the Microsoft Azure Administrator Associate (AZ-104) certification while continuing to build practical cloud experience.
 
-Certifications:
-• CompTIA Security+
-• Microsoft Certified: Azure Fundamentals (AZ-900)
+Certifications:  
+• CompTIA Security+  
+• Microsoft Certified: Azure Fundamentals (AZ-900)  
 • Microsoft Azure Administrator Associate (AZ-104) – In Progress
 
 Actively seeking Cloud Engineer, Azure Administrator, and Cloud Security roles. Open to connecting with recruiters, hiring managers, and cloud professionals.
