@@ -46,7 +46,7 @@ Actively seeking Cloud Engineer, Azure Administrator, and Cloud Security roles. 
 
   ## Projects
 - <a href="https://github.com/The-Efren/cloud-resume">Cloud Resume Challenge</a>
-- <a href="https://github.com/The-Efren/VMware-to-Azure-Cloud-Migration-Lab">VMware to Azure Cloud Migration Lab</a>
+- <a href="https://github.com/The-Efren/VMware-to-Azure-Cloud-Migration-Lab">VMware to Azure Migration Lab</a>
 - <a href="https://github.com/The-Efren/Cloud-Security-Engineering-Lab-Designing-Azure-Honeypot-Infrastructure-and-Detection-Pipelines">Cloud Security Engineering Lab: Azure Honeypot, Centralized Logging, and Threat Detection</a>
 
 
