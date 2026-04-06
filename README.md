@@ -13,12 +13,24 @@ Certifications:
 Actively seeking Cloud Engineer, Azure Administrator, and Cloud Security roles. Open to connecting with recruiters, hiring managers, and cloud professionals.
 
 ## Skills
-**Cloud Platforms:** Microsoft Azure, Azure Virtual Machines, Azure Functions, Azure Static Web Apps.  
-**Infrastructure & Identity:** Active Directory, Entra ID (Azure AD), RBAC, Identity Lifecycle Management, Multi-Factor Authentication (MFA).  
-**DevOps & Automation:** Git, GitHub Actions, CI/CD Pipelines, Infrastructure as Code (IaC) Concepts.  
-**Security & Monitoring:** Microsoft Sentinel (SIEM), Threat Detection, Security Event Analysis, Incident Response, Log Monitoring.  
-**Systems & Networking:** Windows Administration, VPN, DNS, HTTP/HTTPS, Remote Desktop Protocol (RDP).  
-**IT Operations:** ServiceNow, Incident Management, Technical Documentation, Troubleshooting.
+
+**Cloud Platforms & Services:**  
+Microsoft Azure (Virtual Machines, Storage Accounts, Azure AD / Entra ID, Virtual Networks, NSGs, Azure Functions, Static Web Apps).
+
+**Identity & Access Management:**  
+Entra ID (Azure AD), RBAC, Conditional Access, MFA, Identity Lifecycle Management, Hybrid Identity (Azure AD Connect, PHS).
+
+**Cloud Networking & Infrastructure:**  
+Virtual Networks (VNets), Subnets, DNS, VPN Gateway, Network Security Groups (NSGs), Load Balancing Concepts, Hybrid Cloud Architecture.
+
+**DevOps & Automation:**  
+Git, GitHub, GitHub Actions, CI/CD Pipelines, Infrastructure as Code (Terraform basics / ARM templates), Scripting Fundamentals (PowerShell).
+
+**Cloud Security & Observability:**  
+Microsoft Sentinel, Azure Monitor, Log Analytics, Microsoft Defender for Cloud, Threat Detection, Incident Response, KQL.
+
+**Systems & IT Foundations:**  
+Windows Server, Active Directory, Remote Desktop (RDP), TCP/IP, HTTP/HTTPS, Troubleshooting, ServiceNow.
 
 
 ## Certifications
@@ -30,19 +42,13 @@ Actively seeking Cloud Engineer, Azure Administrator, and Cloud Security roles. 
 </p>
 
   
-
-
-
-
-### Endpoint
+### Cloud Observability & Platform Monitoring
 <div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-  
-</div>
-
-### SIEM
-<div>
+    <img src="https://img.shields.io/badge/-Azure_Monitor-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Log_Analytics-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Cloud-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+</div>
 
   ## Projects
 - <a href="https://github.com/The-Efren/cloud-resume">Cloud Resume Challenge</a>
