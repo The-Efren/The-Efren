@@ -3,12 +3,11 @@
 
 ## About me
 
-I’m a U.S. Army veteran and IT professional with 5+ years of experience in cloud identity, network security, and enterprise infrastructure, transitioning into a Cloud Engineer role. Through my work in IT support and government contracting, I have built a strong foundation in Microsoft Azure, identity and access management, and network administration. I bring hands-on experience with Microsoft Entra ID, Conditional Access, Microsoft Intune, and Microsoft 365 to support secure, scalable environments. Previously held an active Secret clearance (inactive since 2022, expired 2024), with experience working in secure and compliance-driven environments. Currently advancing toward the Microsoft Azure Administrator Associate (AZ-104) certification while continuing to build practical cloud experience.
-
+I’m a U.S. Army veteran and IT professional with 5+ years of experience in cloud identity, network security, and enterprise infrastructure, transitioning into a Cloud Engineer role. Through my work in IT support and government contracting, I have built a strong foundation in Microsoft Azure, identity and access management, and network administration. I bring hands-on experience with Microsoft Entra ID, Conditional Access, Microsoft Intune, and Microsoft 365 to support secure, scalable environments. Previously held an active Secret clearance (inactive since 2022, expired 2024), with experience working in secure and compliance-driven environments. Currently pursuing a career in cloud engineering with a focus on Azure, Im activeley building prohjects and expanding my knowlede of Terraform.  
 Certifications:  
 • CompTIA Security+  
 • Microsoft Certified: Azure Fundamentals (AZ-900)  
-• Microsoft Azure Administrator Associate (AZ-104) – In Progress
+• Microsoft Azure Administrator Associate (AZ-104)
 
 Actively seeking Cloud Engineer, Azure Administrator, and Cloud Security roles. Open to connecting with recruiters, hiring managers, and cloud professionals.
 
@@ -38,6 +37,9 @@ Windows Server, Active Directory, Remote Desktop (RDP), TCP/IP, HTTP/HTTPS, Trou
 <img width="150" height="150" alt="comptia-security-ce-certification" src="https://github.com/user-attachments/assets/abebdfc0-3ed8-4f21-8767-7c2350593d9d" />
 
   <img width="150" height="150" alt="image" src="https://github.com/user-attachments/assets/18d1ab4b-db8c-4d2f-86df-de82c0102711" />
+
+  <img width="150" height="150" alt="image" src="https://github.com/user-attachments/assets/5b339515-dac5-4fc3-8be8-acb6dacd8a62" />
+
 
 </p>
 
