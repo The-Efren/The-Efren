@@ -3,34 +3,17 @@
 
 ## About me
 
-I’m a U.S. Army veteran and IT professional with 5+ years of experience in cloud identity, network security, and enterprise infrastructure, transitioning into a Cloud Engineer role. Through my work in IT support and government contracting, I have built a strong foundation in Microsoft Azure, identity and access management, and network administration. I bring hands-on experience with Microsoft Entra ID, Conditional Access, Microsoft Intune, and Microsoft 365 to support secure, scalable environments. Previously held an active Secret clearance (inactive since 2022, expired 2024), with experience working in secure and compliance-driven environments. Currently pursuing a career in cloud engineering with a focus on Azure, Im activeley building prohjects and expanding my knowlede of Terraform.  
+U.S. Army veteran and IT professional with 5+ years of experience in cloud identity, network security, and enterprise infrastructure. I specialize in securing who has access to what: designing and supporting identity and access controls in Microsoft Entra ID, Conditional Access, Intune, and Microsoft 365.  
+My background in IT support and government contracting taught me to work in secure, compliance-driven environments where access has to be least-privilege, auditable, and well documented. I'm now moving into an IAM / Cloud Identity Engineer role, building hands-on Azure projects and automating identity workflows with PowerShell.
+
 Certifications:  
 • CompTIA Security+  
 • Microsoft Certified: Azure Fundamentals (AZ-900)  
-• Microsoft Azure Administrator Associate (AZ-104)
+• Microsoft Certified: Azure Administrator Associate (AZ-104)  
+• *In progress: Microsoft Certified: Identity and Access Administrator Associate (SC-300)*
 
-Actively seeking Cloud Engineer, Azure Administrator, and Cloud Security roles. Open to connecting with recruiters, hiring managers, and cloud professionals.
 
-## Skills
-
-**Cloud Platforms & Services:**  
-Microsoft Azure (Virtual Machines, Storage Accounts, Azure AD / Entra ID, Virtual Networks, NSGs, Azure Functions, Static Web Apps).
-
-**Identity & Access Management:**  
-Entra ID (Azure AD), RBAC, Conditional Access, MFA, Identity Lifecycle Management, Hybrid Identity (Azure AD Connect, PHS).
-
-**Cloud Networking & Infrastructure:**  
-Virtual Networks (VNets), Subnets, DNS, VPN Gateway, Network Security Groups (NSGs), Load Balancing Concepts, Hybrid Cloud Architecture.
-
-**DevOps & Automation:**  
-Git, GitHub, GitHub Actions, CI/CD Pipelines, Infrastructure as Code (Terraform basics / ARM templates), Scripting Fundamentals (PowerShell).
-
-**Cloud Security & Observability:**  
-Microsoft Sentinel, Azure Monitor, Log Analytics, Microsoft Defender for Cloud, Threat Detection, Incident Response, KQL.
-
-**Systems & IT Foundations:**  
-Windows Server, Active Directory, Remote Desktop (RDP), TCP/IP, HTTP/HTTPS, Troubleshooting, ServiceNow.
-
+Actively seeking: IAM Analyst/Engineer, Cloud Identity Engineer, Azure Administrator, and Cloud Security roles. Previously held a Secret clearance (expired 2024).
 
 ## Certifications
 <div>
@@ -40,17 +23,19 @@ Windows Server, Active Directory, Remote Desktop (RDP), TCP/IP, HTTP/HTTPS, Trou
 
   <img width="150" height="150" alt="image" src="https://github.com/user-attachments/assets/5b339515-dac5-4fc3-8be8-acb6dacd8a62" />
 
+## IAM skills
 
-</p>
+| Area | Experience |
+|---|---|
+| **Identity platform** | Microsoft Entra ID (Azure AD), hybrid identity (Entra Connect, PHS), identity lifecycle management (joiner / mover / leaver) |
+| **Access control** | RBAC, Conditional Access, MFA, least-privilege design, [PIM / access reviews, if applicable] |
+| **Endpoint & M365** | Microsoft Intune, Microsoft 365 administration |
+| **Cloud & network security** | Azure VNets, NSGs, VPN Gateway, DNS, hybrid cloud architecture |
+| **Automation** | PowerShell, Terraform (learning), ARM templates, Git, GitHub Actions, CI/CD |
+| **Compliance mindset** | Government contracting, secure and regulated environments |
 
   
-### Cloud Observability & Platform Monitoring
-<div>
-    <img src="https://img.shields.io/badge/-Azure_Monitor-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Log_Analytics-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Cloud-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-</div>
+
 
   ## Projects
 - <a href="https://github.com/The-Efren/cloud-resume">Cloud Resume Challenge</a>
