@@ -28,7 +28,7 @@ Actively seeking: IAM Analyst/Engineer, Cloud Identity Engineer, Azure Administr
 | Area | Experience |
 |---|---|
 | **Identity platform** | Microsoft Entra ID (Azure AD), hybrid identity (Entra Connect, PHS), identity lifecycle management (joiner / mover / leaver) |
-| **Access control** | RBAC, Conditional Access, MFA, least-privilege design, [PIM / access reviews, if applicable] |
+| **Access control** | RBAC, Conditional Access, MFA, least-privilege design |
 | **Endpoint & M365** | Microsoft Intune, Microsoft 365 administration |
 | **Cloud & network security** | Azure VNets, NSGs, VPN Gateway, DNS, hybrid cloud architecture |
 | **Automation** | PowerShell, Terraform (learning), ARM templates, Git, GitHub Actions, CI/CD |
